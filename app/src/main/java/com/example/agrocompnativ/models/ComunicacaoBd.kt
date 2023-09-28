@@ -9,6 +9,7 @@ class DataSource {
 
 
 
+
      suspend fun salvarSetores(setores: List<Setor>): Boolean{
         //uma variavel que retona o sucesso da operação, e não é inicializada
         var sucesso: Boolean = false
