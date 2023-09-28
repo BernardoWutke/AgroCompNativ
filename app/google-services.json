@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "813707127677",
+    "firebase_url": "https://agrocomp-ea5f9-default-rtdb.firebaseio.com",
+    "project_id": "agrocomp-ea5f9",
+    "storage_bucket": "agrocomp-ea5f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813707127677:android:2649efb515c7a966bc3a14",
+        "android_client_info": {
+          "package_name": "com.example.agrocompflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813707127677-lto35b2t9nstvpjr7tm063hscpl2fpoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0QynpjkcO9rk8Hk56T7tk_CsNdNum-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813707127677-lto35b2t9nstvpjr7tm063hscpl2fpoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813707127677-i6tfq6dnas36r8vd5oak9ncjdbklbqov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agrocompflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813707127677:android:5c59077020ad25e7bc3a14",
+        "android_client_info": {
+          "package_name": "com.example.agrocompnativ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813707127677-lto35b2t9nstvpjr7tm063hscpl2fpoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0QynpjkcO9rk8Hk56T7tk_CsNdNum-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813707127677-lto35b2t9nstvpjr7tm063hscpl2fpoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813707127677-i6tfq6dnas36r8vd5oak9ncjdbklbqov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agrocompflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
